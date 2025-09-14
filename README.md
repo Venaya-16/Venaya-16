@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Venaya
 - 👀 I’m interested in Robotics and Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and machine learning 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 Reach me on my linkedin Venaya Mulani
 - 😄 Pronouns: ...
