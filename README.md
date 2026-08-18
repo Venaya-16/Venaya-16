@@ -15,7 +15,7 @@ I'm an AI/ML enthusiast passionate about building intelligent systems that solve
 **Languages**
 - Python
 - Java
-- C++
+- C
 
 **Machine Learning & AI**
 - TensorFlow
